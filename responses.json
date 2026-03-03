@@ -5,10 +5,14 @@
   },
   {
     "keyword": "list",
-    "reply": "Untuk info harga, silakan cek katalog terbaru ya."
+    "reply": "Berikut 2 produk yang tersedia:\n1. gemini\n2. canva\n\nKetik: gemini atau canva"
   },
   {
     "keyword": "jam buka",
     "reply": "Jam buka kami: 09:00 - 21:00."
+  },
+  {
+    "keyword": "gemini",
+    "reply": "*PRICELIST GEMINI*  \n━━━━━━━━━━━━━━━━━━━━━━  \n*GEMINI HEAD*  \n> 1 Bulan : Rp 20.000\n> 1 Tahun : Rp 45.000  \n\n*GEMINI FAMPLAN*\n> 1 Bulan : Rp 8.000\n> 1 Tahun : Rp 25.000"
   }
 ]

@@ -34,6 +34,29 @@ Aturan:
 - `keyword` dicocokkan dengan metode `contains` (tidak case sensitive).
 - Jika ada beberapa keyword cocok, bot pilih keyword terpanjang dulu.
 
+## 4) Atur admin (tambah produk via WhatsApp)
+
+Edit file `admins.json` lalu isi nomor admin:
+
+```json
+[
+  "6281234567890"
+]
+```
+
+Format bisa nomor saja (`628xxx`) atau jid (`628xxx@c.us`).
+
+Command yang bisa dikirim admin:
+- `admin addproduk keyword|balasan`
+- `admin hapusproduk keyword`
+- `admin listproduk`
+- `admin help`
+- `admin whoami` (cek ID pengirim yang terbaca bot)
+
+Contoh:
+- `admin addproduk gemini|Gemini premium ready`
+- `admin whoami`
+
 ## Catatan penting
 
 - Ini memakai library tidak resmi (`whatsapp-web.js`), jadi tetap ada risiko akun dibatasi oleh WhatsApp.
