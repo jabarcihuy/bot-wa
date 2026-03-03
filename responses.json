@@ -1,0 +1,14 @@
+[
+  {
+    "keyword": "halo",
+    "reply": "Berikut Daftar Kategori Produk dan Info Lainnya:\n\n┌「 KATEGORI PRODUK 」\n├ Daftar Semua Produk -> list\n├ Aplikasi Premium -> apkprem\n└ Top Up All Game -> topup\n\n┌「 INFO LAINNYA 」\n├ Kontak Admin -> admin\n├ Info Pembayaran -> payment\n└ Cara Pemesanan -> caraorder"
+  },
+  {
+    "keyword": "list",
+    "reply": "Untuk info harga, silakan cek katalog terbaru ya."
+  },
+  {
+    "keyword": "jam buka",
+    "reply": "Jam buka kami: 09:00 - 21:00."
+  }
+]

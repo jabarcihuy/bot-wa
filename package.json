@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-keyword-bot",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp bot that replies to keywords in private and group chats.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.34.1"
+  }
+}
